@@ -1,3 +1,4 @@
+#pragma warning disable CS8602
 public class Enemy
 {
   public string Name { get; set; }
